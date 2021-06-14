@@ -1,1 +1,1 @@
-# quick-sorting
+# Quick Sorting Visualization
